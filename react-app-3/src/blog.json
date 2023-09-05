@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Take your React App and make it fun",
+        "cover": "https://nextjs.org/static/images/learn/foundations/next-app.png",
+        "author": "William Butler"
+    },
+    {
+        "id": 2,
+        "title": "Getting started with TypeScript",
+        "cover": "https://nextjs.org/static/images/learn/foundations/components.png",
+        "author": "Type Script"
+    }
+]
